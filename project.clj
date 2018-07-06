@@ -2,7 +2,7 @@
   :description "Components for using material-ui-1 with reagent"
   :url "https://github.com/m-arch/reagent-material-ui-1"
   :dependencies [[camel-snake-kebab "0.4.0"]
-                 [cljsjs/material-ui "1.0.0-beta.40-0"]
+                 [cljsjs/material-ui "1.2.1-0"]
                  [org.clojure/clojure "1.9.0"]
                  [org.clojure/clojurescript "1.9.946"]
                  [reagent "0.8.0"]
