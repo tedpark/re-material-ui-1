@@ -1,6 +1,5 @@
 (ns re-material-ui-1.core
-  (:require [cljsjs.material-ui]
-            [cljsjs.material-ui-svg-icons]
+  (:require [material-ui]
             [camel-snake-kebab.core :refer [->kebab-case]]
             [reagent.core :as r])
   (:require-macros [re-material-ui-1.macros :refer [adapt-components]]))
